@@ -12,19 +12,9 @@ Contributions are welcome! Please follow the standard GitHub pull request workfl
 
 ## Inclusion Criteria
 
-**Show that someone other than you is using it.** Recent commits, a nice README, and self-run benchmarks show effort, not usage — they don't count on their own.
+Projects must show proven external usage (stars/downloads/community activity).
 
-Any one of these works:
+-	Real Integration: Functional Codex CLI support (not just a mention in README).
+-	Format: One entry, one section, 1 factual line (no marketing copy).
 
-- Meaningful weekly downloads (npm/PyPI/crates).
-- Forks, issues, or PRs from people outside your team.
-- Stars with matching forks/watchers/issues — a star count with zeros next to it reads as inorganic.
-- An external write-up, or a well-known project that uses it.
-
-Also:
-
-- Real Codex CLI support — an actual install path or integration, not a "supports Codex" line in the README.
-- One entry, one section. Featured is curated by the maintainer.
-- One factual line, no marketing copy.
-
-No adoption yet? Ship it, get users, come back — that's a normal place for a new project to be.
+No users yet? Submit once you get adoption.
